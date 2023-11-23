@@ -1,0 +1,161 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.row {
+    margin: 0;
+}
+.logo{
+    width: 10px;
+    height: 10px;
+}
+
+.navbar{
+    background-color: #ba816e;
+    height: 70px;
+}
+
+.about {
+    background-image: url('../img/cupping-about.jpeg');
+    height: 100vh;
+    width: 100%;
+    margin: 20px 0;
+    background-size: cover;
+    background-position: center center;
+}
+
+.card-uniqname{
+    background-color: #ba816eb5;
+    justify-content: center;
+}
+
+h1{
+    color: #512116;
+    font-weight: bold;
+    
+}
+
+.hours{
+    background-image: url('../img/cuping-hours.jpeg');
+    height: 80vh;
+    background-size: cover;
+    background-position: center center;
+}
+
+.fathers{
+    background-image: url('../img/fathers.jpg');
+    height: 90vh;
+    margin-top: 20px;
+    background-size: cover;
+    background-position: center center;
+}
+
+h2{
+    color: #512116;
+    text-align: center;
+    margin: 50px 0 0 0;
+}
+
+.photo{
+    margin-left: -40px;
+}
+
+h3{
+    color: #512116;
+    text-align: center; 
+}
+
+h4{
+    color: #512116;
+    text-align: center; 
+    margin: 5px 0 0 0;
+}
+
+p{
+    padding: 0 45px;
+    text-align: justify;
+    text-justify: inter-word;
+    font-weight: 500;
+}
+
+.time{
+    background-color: #ffffff89;
+    border-radius: 0%;
+}
+
+.roastery{
+    background-color: #ffffff89;
+    height: 70vh;
+    justify-content: center;
+}
+
+.white{
+    height: 80vh;
+    background-color: white;
+    
+}
+
+.back{
+    background-color: #ba816e;
+    height: 40vh;
+    margin-top: 20vh;
+}
+
+.contact{
+    background-color: #ba816e;
+    height: 50vh;
+    margin-top: 2px;
+}
+
+footer{
+    background-color: #ba816e;
+    height: 30vh;
+}
+
+h5{
+    color: #512116;
+    text-align: center;
+    padding-top: 5vh;
+}
+
+.btn{
+    background-color: #ba816e;
+    color: #512116;
+}
+
+.btn:hover {
+    border: 1px solid #512116;
+    color: #512116;
+    background-color: #ba816eb5;
+}
+
+.card-title{
+    color: #512116;
+    text-decoration: underline #ba816e;
+}
+
+.card{
+    border: none;
+}
+
+.card-header{
+    color: #512116;
+}
+
+.bi{
+    color: #512116;
+    margin: 2px;
+    height: 35px;
+    width: 35px;
+}
+
+.bi :hover{
+    color: #512116;
+    transform: scale(0.9);
+    transition: all 0.2s;
+}
+
+.ig :hover{
+    transform: scale(1.3);
+    transition: 1s;
+}
